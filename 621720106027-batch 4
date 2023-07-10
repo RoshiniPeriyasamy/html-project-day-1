@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favorite Animal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="skyblue">
+    <h1>Sarah's Favorite Animal</h1>
+    <div><h2 id="heading2">Home &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fun Facts</h2>
+    </div>
+    <img src="images/moose.jpg" alt=""height="150" width="200">
+    <p>My name is Sarah, and my favorite animal is the moose.<br>
+    They can be upto 6.5 feet tall and weigh 1200 pounds.<br>
+Surprisingly, they're really good at swimming!<br><br>
+if you want to learn more about the moose,cheak out</p>
+<a href="https://unsplash.com/images/animals/moose">its <br> unsplash page</a>
+<h1>Moose are awesome because...</h1>
+<o1>
+    <li>They can swim really well</li>
+    <li>They can make really funny noises</li>
+    <li>They can make their nostrils</li>
+</o1>
+<h1>If I were a moose,I would...</h1>
+<u1>
+    <li>Eat lots of lettuce</li>
+    <li>Carry little animals on my antlers</li>
+    <li>Swim to Alaska</li>
+</u1>
+<h1>Moose Video</h1>
+<video src="https://www.youtube.com/watch?v=HNfetnUwOUo">
+</body>
+</html>
